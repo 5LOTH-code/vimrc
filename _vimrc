@@ -32,8 +32,9 @@ set showmatch
 set guifont=Courier\ New:h10
 
 " setting colorscheme
+packadd! dracula
 set background=dark
-colorscheme PaperColor
+colorscheme dracula
 
 " fixing backspace
 set bs=2
