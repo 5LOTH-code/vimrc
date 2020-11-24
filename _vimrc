@@ -12,6 +12,8 @@ set cursorcolumn                                    " show a visual line on the 
 set showmatch                                       " show the matching part of the pair for [] {} and ()
 set guifont=Iosevka:h10                             " setting font
 set belloff=all                                     " switch off errorbell
+set cmdheight=1                                     " command bar height
+set laststatus=2                                    " Always show the status line
 
 " Indentation
 set ts=4                                            " set tabs to have 4 spaces
@@ -29,7 +31,3 @@ set t_Co=256
 set background=dark
 colorscheme PaperColor
 let g:lightline = { 'colorscheme': 'PaperColor' }	" Lightline colorscheme
-
-" Bottom
-set cmdheight=1                                     " command bar height
-set laststatus=2                                    " Always show the status line
