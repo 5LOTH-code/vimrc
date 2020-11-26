@@ -19,7 +19,7 @@ set laststatus=2                                    " Always show the status lin
 set ts=4                                            " set tabs to have 4 spaces
 set ai                                              " indent when moving to the next line while writing code
 set si                                              " smart indent
-set wrap                                            " wrap lines
+set nowrap                                          " not to wrap long lines
 filetype plugin indent on                           " indent based on the filetype
 set expandtab                                       " expand tabs into spaces
 set smarttab                                        " smart usage of tab
