@@ -12,7 +12,7 @@ set ruler                                           " show current position
 set cursorline                                      " show a visual line under the cursor's current line
 set cursorcolumn                                    " show a visual line on the cursor's current column
 set showmatch                                       " show the matching part of the pair for [] {} and ()
-set guifont=FiraCode:h10                            " setting font
+set guifont=Iosevka:h10                             " setting font
 set belloff=all                                      " switch off errorbell
 set cmdheight=1                                     " command bar height
 set laststatus=2                                    " Always show the status line
