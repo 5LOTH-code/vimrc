@@ -1,3 +1,4 @@
+set nocompatible
 " vim-plug
 call plug#begin()
 Plug 'itchyny/lightline.vim'                        " Lightline
