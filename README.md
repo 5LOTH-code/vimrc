@@ -1,3 +1,5 @@
+# Old Version. - New Version available at [arch-dots](https://github.com/HeMan-98/arch-dots)
+
 # vimrc
 A simple config file for vim (designed for: linux(term)).
 
